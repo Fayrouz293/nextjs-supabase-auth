@@ -18,7 +18,7 @@ export default async function Home() {
 
   return (
     <div className="card">
-      <h2>Welcome!</h2>
+      <h2>HALOOO :v</h2>
       <code className="highlight">{user.role}</code>
       <Link className="button" href="/profile">
         Go to Profile
